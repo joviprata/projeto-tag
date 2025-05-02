@@ -1,0 +1,10 @@
+user1,user2,weight
+alice,bob,2
+bob,charlie,1
+charlie,alice,3
+dave,alice,1
+bob,alice,1
+alice,charlie,2
+charlie,bob,1
+eve,alice,1
+dave,charlie,2
